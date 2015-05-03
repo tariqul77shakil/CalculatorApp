@@ -1,0 +1,9 @@
+C:\Users\Shakil\Desktop\Visual Practice\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Shakil\Desktop\Visual Practice\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Shakil\Desktop\Visual Practice\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Shakil\Desktop\Visual Practice\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\Shakil\Desktop\Visual Practice\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Calcualtor.resources
+C:\Users\Shakil\Desktop\Visual Practice\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Shakil\Desktop\Visual Practice\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+C:\Users\Shakil\Desktop\Visual Practice\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Shakil\Desktop\Visual Practice\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
